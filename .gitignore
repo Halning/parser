@@ -1,0 +1,11 @@
+#========== parser
+brands_parsers/Cardo/cookie.txt
+brands_parsers/Cardo/cookie_cur.txt
+brands_parsers/Fashionup/fUp.xml
+brands_parsers/Fashionup/fUpAll.xml
+brands_parsers/Glem/glem.xml
+brands_parsers/Ghazel/ghazel.xml
+brands_parsers/Jhiva/price.json
+brands_parsers/DemboHouse/price.json
+brands_parsers/Crisma/price.json
+brands_parsers/Majaly/price.json
